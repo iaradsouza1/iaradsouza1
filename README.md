@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **iaradsouza1/iaradsouza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About
+# About me 🤸‍♀️
 
 Hi! I'm Iara Souza and currently I'm a post-doc in Bioinformatics in the [Bioinformatics Multidisciplinary Environment](https://bioinfo.imd.ufrn.br/). I'm also part of the bioinformatics consultancy team from the [Lexanomics](https://www.lexanomics.com/) startup. I'm a biomedical scientist and a statistician (almost there!), with a master's and a PhD in Bioinformatics, all of them earned from the Federal University of Rio Grande do Norte, Brazil. 
 
