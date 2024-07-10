@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 # About me 🤸‍♀️
 
-Hi! I'm Iara Souza and currently I'm a post-doc in Bioinformatics in the [Bioinformatics Multidisciplinary Environment](https://bioinfo.imd.ufrn.br/). I'm a biomedical scientist and a statistician, with a master's and a PhD in Bioinformatics, all of them earned from the Federal University of Rio Grande do Norte, Brazil. 
+Hi! I'm Iara Souza and currently I'm a post-doc working at Harari Lab from the Ohio State University. I'm a biomedical scientist and a statistician, with a master's and a PhD in Bioinformatics, all of them earned from the Federal University of Rio Grande do Norte, Brazil. 
 
 I'm passionate about programming in R and I love learning new things about this great programming language. Also, I'm passionate about Systems Biology and data integration from different "omics" as well as learning new statistical concepts.
